@@ -1,6 +1,4 @@
-Here’s the updated and concise `README.md` for your Contact Management project, as per your requirements:
 
-```markdown
 # Contact Management System
 
 A full-stack Contact Management System that allows users to create, view, edit, and delete contact information. Built using the **MERN Stack** (MongoDB, Express, React, and Node.js), it is designed to provide a seamless experience for managing contacts.
@@ -40,7 +38,6 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/iamabhish23/Frontend.git
 cd contact-management
-```
 
 ### 2. Backend Setup
 1. Navigate to the `Backend` folder:
